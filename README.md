@@ -20,8 +20,6 @@ GET `/me` returns JSON in this exact format:
 ## Tech stack
 - Python 3.10+
 - Flask
-- requests
-- python-dotenv
 
 ## Setup (local)
 1. Clone repo
